@@ -1,0 +1,1380 @@
+[
+    {
+        "cityStoreId": 1,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 2,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 128209.300812393
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 128209.300812393
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 128209.300812393
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 128209.300812393
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 3,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 267102.81097366
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 267102.81097366
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 267102.81097366
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 267102.81097366
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 4,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 241853.039566639
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 241853.039566639
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 241853.039566639
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 241853.039566639
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 5,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 209237.673192755
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 209237.673192755
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 209237.673192755
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 209237.673192755
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 6,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 134768.230760234
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 134768.230760234
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 134768.230760234
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 134768.230760234
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 7,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 8,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 9,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 10,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 11,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 12,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 13,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 14,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 15,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 16,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 17,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 18,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 19,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 20,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 21,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 22,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 23,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 24,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 25,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    },
+    {
+        "cityStoreId": 26,
+        "months": [
+            {
+                "monthId": 1,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 2,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 3,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 4,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 5,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 6,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 7,
+                "monthGoal": 0
+            },
+            {
+                "monthId": 8,
+                "monthGoal": 191633.324167386
+            },
+            {
+                "monthId": 9,
+                "monthGoal": 200633.324167386
+            },
+            {
+                "monthId": 10,
+                "monthGoal": 300633.324167386
+            },
+            {
+                "monthId": 11,
+                "monthGoal": 400633.324167386
+            },
+            {
+                "monthId": 12,
+                "monthGoal": 0
+            }
+        ]
+    }
+]

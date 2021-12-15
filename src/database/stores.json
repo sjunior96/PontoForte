@@ -1,0 +1,132 @@
+[
+    {
+        "storeId": 1,
+        "storeName": "Arinos",
+        "storeClassificationId": 5
+    },
+    {
+        "storeId": 2,
+        "storeName": "Bonfinópolis",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 3,
+        "storeName": "Brasilândia",
+        "storeClassificationId": 4
+    },
+    {
+        "storeId": 4,
+        "storeName": "Buritis",
+        "storeClassificationId": 4
+    },
+    {
+        "storeId": 5,
+        "storeName": "Carmo do Paranaíba",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 6,
+        "storeName": "Chapada Gaúcha",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 7,
+        "storeName": "Coromandel",
+        "storeClassificationId": 5
+    },
+    {
+        "storeId": 8,
+        "storeName": "Guarda dos Ferreiros",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 9,
+        "storeName": "Guarda-Mor",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 10,
+        "storeName": "Ibia",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 11,
+        "storeName": "João Pinheiro",
+        "storeClassificationId": 3
+    },
+    {
+        "storeId": 12,
+        "storeName": "Lagamar",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 13,
+        "storeName": "Lagoa Grande",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 14,
+        "storeName": "Natalândia",
+        "storeClassificationId": 7
+    },
+    {
+        "storeId": 15,
+        "storeName": "Paracatu",
+        "storeClassificationId": 2
+    },
+    {
+        "storeId": 16,
+        "storeName": "Patos de Minas",
+        "storeClassificationId": 2
+    },
+    {
+        "storeId": 17,
+        "storeName": "Patrocínio",
+        "storeClassificationId": 3
+    },
+    {
+        "storeId": 18,
+        "storeName": "Presidente Olegário",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 19,
+        "storeName": "Riachinho",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 20,
+        "storeName": "São Sebastião",
+        "storeClassificationId": 3
+    },
+    {
+        "storeId": 21,
+        "storeName": "Serra do Salitre",
+        "storeClassificationId": 7
+    },
+    {
+        "storeId": 22,
+        "storeName": "Unaí",
+        "storeClassificationId": "A"
+    },
+    {
+        "storeId": 23,
+        "storeName": "Unaí II",
+        "storeClassificationId": 3
+    },
+    {
+        "storeId": 24,
+        "storeName": "Uruana",
+        "storeClassificationId": 7
+    },
+    {
+        "storeId": 25,
+        "storeName": "Urucuia",
+        "storeClassificationId": 6
+    },
+    {
+        "storeId": 26,
+        "storeName": "Vazante",
+        "storeClassificationId": 3
+    }
+]

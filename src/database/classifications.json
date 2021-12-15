@@ -1,0 +1,86 @@
+[
+    {
+        "storeClassificationId": 1,
+        "storeClassification": "A",
+        "production": 3300.00,
+        "furniture": 1100.00,
+        "service": 1100.00,
+        "cdc": 1100.00,
+        "ep": 2200.00,
+        "premium": 2200.00,
+        "total2": 11000.00,
+        "guaranteed": 6750.00
+    },
+    {
+        "storeClassificationId": 2,
+        "storeClassification": "B",
+        "production": 2850.00,
+        "furniture": 950.00,
+        "service": 950.00,
+        "cdc": 950.00,
+        "ep": 1900.00,
+        "premium": 1900.00,
+        "total2": 9500.00,
+        "guaranteed": 5500.00
+    },
+    {
+        "storeClassificationId": 3,
+        "storeClassification": "C",
+        "production": 2400.00,
+        "furniture": 800.00,
+        "service": 800.00,
+        "cdc": 800.00,
+        "ep": 1600.00,
+        "premium": 1600.00,
+        "total2": 8000.00,
+        "guaranteed": 4500.00
+    },
+    {
+        "storeClassificationId": 4,
+        "storeClassification": "D",
+        "production": 2100.00,
+        "furniture": 700.00,
+        "service": 700.00,
+        "cdc": 700.00,
+        "ep": 1400.00,
+        "premium": 1400.00,
+        "total2": 7000.00,
+        "guaranteed": 3800.00
+    },
+    {
+        "storeClassificationId": 5,
+        "storeClassification": "E",
+        "production": 1800.00,
+        "furniture": 600.00,
+        "service": 600.00,
+        "cdc": 600.00,
+        "ep": 1200.00,
+        "premium": 1200.00,
+        "total2": 6000.00,
+        "guaranteed": 3200.00
+    },
+    {
+        "storeClassificationId": 6,
+        "storeClassification": "F",
+        "production": 1500.00,
+        "furniture": 500.00,
+        "service": 500.00,
+        "cdc": 500.00,
+        "ep": 1000.00,
+        "premium": 1000.00,
+        "total2": 5000.00,
+        "guaranteed": 2500.00
+    },
+    {
+        "storeClassificationId": 7,
+        "storeClassification": "G",
+        "production": 900.00,
+        "furniture": 300.00,
+        "service": 300.00,
+        "cdc": 300.00,
+        "ep": 600.00,
+        "premium": 600.00,
+        "total2": 3000.00,
+        "guaranteed": 1800.00
+    }
+]
